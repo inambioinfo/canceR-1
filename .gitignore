@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Rbuildignore
+.directory
+info.svx
+Results
+.DS_Store
+
+
